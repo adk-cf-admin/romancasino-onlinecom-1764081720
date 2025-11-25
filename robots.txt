@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://romancasino-online.com/
+Sitemap: https://romancasino-online.com/sitemap.xml

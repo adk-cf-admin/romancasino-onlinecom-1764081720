@@ -1,0 +1,197 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#0C0000",
+            "lang-select-color": "#222829",
+            "bg-light": "#0C0000",
+            "welcome-bonus-bg": "#0C0000",
+            "top-games-hover-fg": "#deeadf",
+            "main-bg": "#2D0F0F",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#0C0000",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#FDC966",
+            "yellow": "#C80630",
+            "yellow-button": "#FDC966",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#471f1f",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#471f1f",
+            "faq-label": "#471f1f",
+            "bg-footer": "#0C0000",
+            "copyright": "#e7e7d5",
+            "starColor": "#C80630",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Roman Casino",
+            "title": "Roman Casino | Online Casino with Wide Game Selection and Fast Payouts",
+            "description": "Roman Casino is a modern online casino offering thousands of slots, live games, and generous bonuses. Enjoy fast withdrawals, crypto support, and a mobile-friendly experience.\n",
+            "canonical": "romancasino-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/711",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "romancasino-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/712",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/713"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/714",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Roman Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Roman Casino \u2014 Online Casino with Games and Bonuses",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/715",
+            "imageSizeModifier": 5,
+            "imageYModifier": -4,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/716",
+            "mobileImageSizeModifier": -5,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "Some text before list",
+            "items": [
+                "Huge selection of slots and table games",
+                "Live casino with real dealers",
+                "Exclusive games and unique mechanics",
+                "High jackpots and Megaways slots",
+                "Fast and secure withdrawals",
+                "Crypto-friendly and multiple payment options",
+                "Mobile-friendly design for all devices"
+            ],
+            "advantagesAfterText": "Roman Casino delivers thousands of games from leading providers and a sleek interface. The platform combines generous bonuses, strong data security, and convenient payment methods.\n",
+            "knowMore": "Know more",
+            "appTitle": "Roman Casino App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/717",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Roman Casino App",
+            "mobileGooglePlayImageTitle": "Roman Casino App",
+            "mobileIosImageTitle": "Roman Casino App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": " About Roman Casino",
+                "description1": "Roman Casino offers massive bonuses and huge winning opportunities. Players enjoy hundreds of free spins and jackpots reaching six-figure amounts.",
+                "items": [
+                    "Bonus up to C$2,250",
+                    "Jackpots over C$100,000",
+                    "Free spins \u2014 250 total"
+                ],
+                "description2": "Roman Casino is a modern gaming platform with a vibrant design. The casino offers a wide selection of slots and table games. Live games with professional dealers are available. The website interface is user-friendly and intuitive. The platform supports multiple payment methods, including cryptocurrencies. \n",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/718",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Players can enjoy generous bonuses and promotions. The site operates on licensed software and ensures data security. A mobile version allows gaming anytime and anywhere. Registration is quick and easy. Roman Casino combines reliability, variety, and convenience for players."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Roman Casino \u2014 A World of Thrill and Comfort",
+                "description": "<p>\nRoman Casino is a modern online platform designed for those who value quality and variety. The casino impresses with its stylish design inspired by Ancient Rome and offers players a unique experience in the world of gaming.\n\n<\/p>\n<br>\n<p>\nThe game catalog includes thousands of slots, table games, and live streams with professional dealers. Here, everyone can find entertainment to suit their taste \u2014 from classic machines to innovative games with exciting mechanics. Special attention is given to the live casino, where players can feel the atmosphere of a real gaming hall.\n\n<\/p>\n<br>\n<p>\nRoman Casino prioritizes user safety and convenience. All transactions are protected by advanced encryption technologies, and the platform supports popular payment methods, including cryptocurrencies. This makes deposits and withdrawals fast and secure.\n\n<\/p>\n<br>\n<p>\nFor bonus lovers, there are attractive promotions and loyalty programs. New players receive welcome offers, while regular participants can enjoy cashback, tournaments, and exclusive privileges.\n\n<\/p>\n<br>\n\n<p>\nThe mobile version of the site allows you to enjoy gaming anytime and anywhere. Roman Casino combines reliability, style, and a wide selection of games, creating perfect conditions for an exciting experience.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPayment Methods and Currencies at Roman Casino\n<\/h3>\n\n<p>\nRoman Casino offers players convenient and secure ways to deposit and withdraw funds. The platform supports both traditional bank cards and modern e-wallets, making the process as smooth as possible. Among the available payment methods are Visa and MasterCard, as well as popular services like Neteller and Skrill.\n\n<\/p>\n<br>\n<p>\nSpecial attention is given to cryptocurrencies, which are becoming increasingly popular among players. Roman Casino accepts Bitcoin, Ethereum, Litecoin, and other digital assets, ensuring fast transactions and a high level of privacy. This is especially beneficial for those who value anonymity and speed.\n\n<\/p>\n<br>\n<p>\nThe casino\u2019s currency policy is also flexible. Players can use multiple currencies, including Canadian dollars, euros, US dollars, and popular cryptocurrencies. This approach helps avoid unnecessary conversions and makes gaming accessible to users worldwide.\n\n<\/p>\n<br>\n<p>\nRoman Casino aims to provide maximum convenience for financial operations by offering a wide range of methods and supporting various currencies. This creates comfortable conditions for all players, regardless of their preferences.\n\n<\/p>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRoman Casino Rules: Conditions and Restrictions\n<\/h3>\n\n<p>\nRoman Casino follows strict rules to ensure safety and comfort for all players. Access to the casino is granted only under specific conditions designed to protect users and maintain fair play. The primary requirement is being of legal age, as gambling is allowed only for adults.\n\n<\/p>\n<br>\n<p>\nPlayers must provide accurate information during registration and adhere to responsible gaming practices. Any attempts at fraud, use of false data, or violation of bonus terms are strictly prohibited. The platform also monitors betting limits and prevents abuse.\n\n<\/p>\n<br>\n<p>\nRoman Casino forbids the use of automated systems or bots for gaming. Creating multiple accounts by one user is also not allowed. All financial transactions undergo verification to prevent illegal activities and ensure transparency.\n\n<\/p>\n<br>\n<p>\nThe administration reserves the right to temporarily block or close accounts in case of violations. Players should respect the rules and conditions to maintain access to services and bonuses.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Conditions\n<\/h4>\n            <ul>\n            <li>\u2022 \nLegal age requirement for gambling\n\n<\/li>\n            <li>\u2022 \nProviding accurate registration details\n\n<\/li>\n            <li>\u2022 \nFollowing responsible gaming rules\n\n<\/li>\n   \n        <\/ul>\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Restrictions\n<\/h4>\n        <ul>\n            <li>\u2022 \nUse of bots or third-party software\n\n<\/li>\n            <li>\u2022 \nCreating multiple accounts\n\n<\/li>\n   \n            <li>\u2022 \nFraud attempts or money laundering\n\n<\/li>\n  \n        <\/ul><br>\n      \n    <\/div>\n<\/div>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLicense and Data Protection at Roman Casino\n<\/h3>\n\n<p>\nRoman Casino operates under an international license issued by a recognized regulatory authority, ensuring the platform\u2019s legality and transparency. The license guarantees compliance with fair play standards and protection of user interests.\n\n<\/p>\n<br>\n<p>\nTo safeguard data, advanced SSL encryption is implemented, securing personal information and financial transactions from unauthorized access. All payments are processed through protected channels, and the system is regularly updated to meet the latest cybersecurity requirements.\n\n<\/p>\n<br>\n<p>\nRoman Casino\u2019s privacy policy strictly governs the handling of personal data. Player information is never shared with third parties and is used solely for service provision. The platform also employs anti-fraud technologies and tools to prevent unauthorized activities.\n\n<\/p>\n<br>\n<p>\nIn this way, Roman Casino combines a reliable license, cutting-edge encryption methods, and strict privacy standards to create a secure environment for gaming.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRoman Casino Customer Support\n<\/h3>\n\n<p>\nRoman Casino places great emphasis on providing quality player assistance. Support is available via live chat, email, and phone, allowing users to choose the most convenient channel. Responses in chat are typically instant, while email inquiries are handled promptly.\n\n<\/p>\n<br>\n<p>\nThe support team is professional and ready to assist with any questions related to gaming, payments, or bonuses. The service is available in multiple languages, including English, making it accessible for international players.\n\n<\/p>\n<br>\n<p>\nRoman Casino aims to deliver a high level of comfort and responsiveness so every player feels confident and secure.\n\n<\/p>\n<br>\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at Roman Casino",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nRoman Casino Loyalty Program \u2014 Exclusive Benefits for Players\n<\/h3>\n\n<p>\nThe Roman Casino loyalty program is designed to reward active players and provide them with extra benefits. It includes multiple levels, each unlocking new bonuses and personalized offers. The more you play, the higher your status and the more privileges you enjoy.\n\n<\/p>\n<br>\n<p>\nRegistration in the program happens automatically after creating an account. Players start at the basic level and gradually increase their status by earning points through bets and activity on the platform. The system is transparent and easy to understand: the higher the level, the greater the rewards.\n\n<\/p>\n<br>\n<p>\nKey advantages of the program include a personal manager for VIP players, higher withdrawal limits, weekly cashback, and access to exclusive tournaments. Additionally, members receive extra free spins, deposit bonuses, and special gifts.\n\n<\/p>\n<br>\n<p>\nThe Roman Casino loyalty program makes gaming not only exciting but also profitable. It motivates players to stay active and get the most out of every bet.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Registration Conditions\n<\/h4>\n            <ul>\n            <li>\u2022 \nCreate an account at Roman Casino\n\n<\/li>\n            <li>\u2022 \nCreate an account at Roman Casino\n\n<\/li>\n            <li>\u2022 \nStart playing and earning points\n<\/li>\n        <\/ul><br>\n\n <h4 style = \"font-weight: bold; font-size: 24px;\"> Levels and How to Achieve Them\n<\/h4>\n        <ul>\n            <li>\u2022 \nBasic Level: available immediately after registration\n\n<\/li>\n            <li>\u2022 \nMid Levels: achieved through active play and deposits\n\n<\/li>\n \n            <li>\u2022 \nVIP Levels: for players with high activity and large bets\n\n<\/li>\n            <li>\u2022 \nA total of 16 levels, each unlocking new bonuses\n\n<\/li>\n  \n        <\/ul><br>\n      \n\n\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Loyalty Program Bonuses\n<\/h4>\n        <ul>\n            <li>\u2022 \nWeekly cashback up to 15%\n\n<\/li>\n            <li>\u2022 \nPersonal manager for VIP players\n\n<\/li>    \n            <li>\u2022 \nIncreased withdrawal limits\n\n<\/li>\n            <li>\u2022 \nExclusive tournaments and lotteries\n\n<\/li>\n              <li>\u2022 \nExtra deposit bonuses up to 100%\n\n<\/li>\n            <li>\u2022 \nFree spins on popular slots\n\n<\/li>\n            <li>\u2022 \nSpecial gifts and promotions for top levels\n\n<\/li>\n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses and Special Offers at Roman Casino\n<\/h3>\n\n<p>\nRoman Casino provides players with a wide range of bonuses and promotions that make gaming even more exciting. The platform focuses on creating favorable conditions for big wins by offering generous welcome packages, regular deals, and special offers tied to popular games and seasonal events.\n\n<\/p>\n<br>\n<p>\nPlayers can participate in tournaments with large cash prizes. In addition, themed promotions linked to holidays and major events allow users to win extra funds or free spins. Special offers often include exclusive games with boosted payout rates, adding more thrill to the experience.\n\n<\/p>\n<br>\n<p>\nRoman Casino also hosts limited-time promo events where players can earn extra bonuses for activity. These campaigns create a dynamic atmosphere and give users the chance to grow their bankroll without additional spending.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Examples of bonuses and offers<\/h4>\n\n <ul>\n            <li>\u2022 \nWelcome Bonus: up to C$2,250 + 250 free spins on first deposits.\n\n<\/li>\n            <li>\u2022 \nTournaments: weekly competitions with prize pools up to C$50,000.\n\n<\/li>\n            <li>\u2022 \nSeasonal Promotions: holiday-themed offers with bonuses up to C$500.\n\n<\/li>\n            <li>\u2022 \nFree Spins: up to 150 spins on popular slots.\n\n<\/li>\n\t    <li>\u2022 \nSpecial Games: boosted payout rates on exclusive slots.\n\n<\/li>\n\t    <li>\u2022 \nCashback Deals: up to 15% return on losses during promo days.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at Roman Casino\n<\/h3>\n\n<p>\nRoman Casino offers players a vast selection of entertainment, with slots and live dealer games taking center stage. The platform partners with leading providers, ensuring top-quality graphics, fair gameplay, and diverse mechanics. Here you\u2019ll find both classic machines and modern slots featuring Megaways and progressive jackpots.\n\n<\/p>\n<br>\n<p>\nFans of table games will appreciate the wide range of roulette, blackjack, and poker options. For those who prefer the atmosphere of a real casino, live games with professional dealers create an authentic experience. Additionally, Roman Casino features original crash games and quick rounds for players who enjoy fast-paced action.\n\n<\/p>\n<br>\n<p>\nEvery game on the platform is secure and optimized for mobile devices, allowing players to enjoy their favorites anytime, anywhere.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Popular games<\/h4>\n\n <ul>\n            <li>\u2022 \nBook of Dead \u2014 legendary slot with Egyptian theme and bonus rounds.\n\n<\/li>\n            <li>\u2022 \nStarburst \u2014 vibrant slot with simple rules and frequent wins.\n\n<\/li>\n            <li>\u2022 \nGates of Olympus \u2014 dynamic slot with multipliers and cascading payouts.\n\n<\/li>\n            <li>\u2022 \nSweet Bonanza \u2014 colorful slot with \u201cbuy bonus\u201d feature and big wins.\n\n<\/li>\n\t    <li>\u2022 \nLightning Roulette \u2014 live roulette with multipliers and unique atmosphere.\n\n<\/li>\n\t    <li>\u2022 \nBlackjack Live \u2014 classic blackjack with real dealers and interactive play.\n\n<\/li>\n\t    <li>\u2022 \nAviator \u2014 popular crash game with growing multiplier and instant payouts.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at Roman Casino\n<\/h3>\n\n<p> \nRoman Casino offers flexible conditions for players with different budgets. You can start with small bets or aim for high limits to maximize your winnings. This approach makes the platform suitable for both beginners and experienced players who enjoy big stakes.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#FDC966; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0.10  CAD<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">100 CAD<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1 CAD<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5,000 CAD<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5 CAD <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">10,000 CAD<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Baccarat<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">10 CAD <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> 15,000 CAD<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Live Casino<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1 CAD<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">20,000 CAD<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents and Entertainment at Roman Casino\n<\/h3>\n\n<p>\nRoman Casino is not just a gaming platform but a space for unforgettable experiences. The casino offers a unique atmosphere where excitement blends with entertainment shows and special events. Every visit feels like a celebration, and the variety of activities makes the experience truly memorable.\n\n<\/p>\n<br>\n<p>\nSpecial attention is given to live shows and themed evenings. Players can enjoy performances by artists, musical programs, and interactive contests. These events create the vibe of a real gaming club, where thrill meets culture and entertainment.\n\n<\/p>\n<br>\n<p>\nFor those seeking exclusivity, VIP events are organized. These include private parties, high-stakes tournaments, and special promotions for loyal customers. Participation in such events offers not only winning opportunities but also a sense of belonging to an elite community.\n\n<\/p>\n<br>\n<p>\nRoman Casino also hosts seasonal promotions and festive programs. New Year shows, themed parties, and prize draws make gaming even more exciting. Each event is carefully designed to provide players with maximum emotions and comfort.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">All entertainment<\/h4>\n\n <ul>\n            <li>\u2022 \nLive shows \u2014 musical and dance performances by artists.\n\n<\/li>\n            <li>\u2022 \nThemed evenings \u2014 parties inspired by Ancient Rome and other eras.\n\n<\/li>\n            <li>\u2022 \nVIP tournaments \u2014 exclusive competitions with big prizes.\n\n<\/li>\n            <li>\u2022 \nInteractive contests \u2014 games and prize draws for guests.\n\n<\/li>\n\t    <li>\u2022 \nSeasonal promotions \u2014 festive programs and special bonuses.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWithdrawal Methods and Payout Speed at Roman Casino\n<\/h3>\n\n<p>\nRoman Casino provides players with convenient and secure withdrawal options. Available methods include Visa and MasterCard bank cards, e-wallets such as Neteller and Skrill, and cryptocurrencies like Bitcoin, Ethereum, and Litecoin. This variety ensures that every user can choose the most suitable way to receive winnings.\n\n<\/p>\n<br>\n<p>\nThe payout speed depends on the selected method. E-wallets and cryptocurrencies are processed the fastest\u2014usually within 24 hours. Bank cards take longer, with transactions typically completed within one to five business days. All withdrawals undergo security checks to guarantee the safety of funds and player data.\n\n<\/p>\n<br>\n<p>\nProcessing times include standard account verification and identity confirmation. This mandatory procedure helps prevent fraud and ensures compliance with licensing regulations. Once verification is complete, funds are transferred without unnecessary delays.\n\n<\/p>\n<br>\n<p>\nWithdrawal limits also vary based on player status. Standard accounts have daily and monthly caps, allowing withdrawals up to several thousand dollars. VIP players enjoy higher limits and priority service, making the process as smooth as possible.\n\n<\/p>\n<br>\n<p>\nRoman Casino aims to deliver transparency and reliability in financial operations, offering fast payouts, flexible limits, and a wide range of methods.\n\n<\/p>\n<br>"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "Do I need to verify my account?",
+                    "answer": "Yes, identity verification is required for withdrawals. It\u2019s a standard security measure.\n"
+                },
+                {
+                    "title": "Which currencies are supported?",
+                    "answer": "CAD, USD, EUR, and popular cryptocurrencies.\n"
+                },
+                {
+                    "title": "Can I play for free?",
+                    "answer": "Yes, most slots are available in demo mode without risk.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/719",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Roman Casino"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}

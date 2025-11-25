@@ -1,0 +1,19 @@
+{
+  "name": "Roman Casino",
+  "short_name": "Roman Casino",
+  "theme_color": "",
+  "background_color": "#0C0000",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1764078642-favicon-cdnwlromanstaticcom.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
